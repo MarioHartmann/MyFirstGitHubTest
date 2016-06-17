@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.Write("Hello World.");
 
             Console.Write("Hello Test.");
+            Console.Write("Hello Earth.");
         }
     }
 }
